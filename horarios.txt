@@ -1,0 +1,14 @@
+1 9 9 1 a
+1 0 0 0 a
+1 10 9 0 b
+0 11 8 0 novo
+0 14 8 1 teste 1
+1 15 8 1 teste 2
+2 16 8 1 teste 3
+8 19 8 1 teste 5
+4 17 8 1 teste 4
+0 0 0 0 teste 6
+0 0 8 0 teste 6
+1 1 8 0 teste 7
+2 2 8 0 teste 8
+3 3 8 0 teste 9
